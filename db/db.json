@@ -8,5 +8,10 @@
         "title": "Note 2",
         "text": "Something else",
         "id": "6691e0df-6ae0-4aaa-b8d9-37a3f5fa6157"
+    },
+    {
+        "title": "New note Title HERE",
+        "text": "New note text entered",
+        "id": "eb6b730a-a8c4-449b-8393-25cb4f9752c2"
     }
 ]
