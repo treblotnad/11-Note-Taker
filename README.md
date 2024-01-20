@@ -28,7 +28,9 @@ Requires node.js@18+
 
 ## Credits
 
-DB helper functions taken from UofM webdev bootcamp
+DB helper functions taken from UofM webdev bootcamp, fsUtils.js file
+
+uuid is used under MIT license: https://github.com/uuidjs/uuid
 
 ## Contributing
 
