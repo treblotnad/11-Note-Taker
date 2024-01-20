@@ -24,9 +24,9 @@ Requires node.js@18+
 
 ## Usage
 
-[ScreenShotLandingPage](./Screenshots/Landing%20Page.png)  
-[ScreenShotDisplayed](./Screenshots/Notes%20Displayed%20from%20database%20file.png)  
-[ScreenshotEntered](./Screenshots/New%20note%20being%20entered.png)
+[ScreenShotLandingPage](/Screenshots/Landing%20Page.png)  
+[ScreenShotDisplayed](/Screenshots/Notes%20Displayed%20from%20database%20file.png)  
+[ScreenshotEntered](/Screenshots/New%20note%20being%20entered.png)
 
 ## Credits
 
