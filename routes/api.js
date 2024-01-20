@@ -1,10 +1,9 @@
 const api = require("express").Router();
 const { v4: uuid4 } = require("uuid");
-
-const db = require("../db/db.json");
+const { readFromFile } = require("../db/dbHelper");
 
 api.get("/", (req, res) => {
-  res.json(db);
+  readFromFile("./db").then((data) => res.json(JSON.parse(data)));
 });
 
 api.post("/", (req, res) => {
