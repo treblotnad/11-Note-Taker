@@ -23,6 +23,9 @@ npm i
 Requires node.js@18+
 
 ## Usage
+https://heroku-11-note-taker-dc660b316eba.herokuapp.com/
+Deployed Link!
+
 
 ![ScreenShotLandingPage](Screenshots/Landing%20Page.png)  
 ![ScreenShotDisplayed](Screenshots/Notes%20Displayed%20from%20database%20file.png)  
