@@ -13,5 +13,10 @@
         "title": "New note Title HERE",
         "text": "New note text entered",
         "id": "eb6b730a-a8c4-449b-8393-25cb4f9752c2"
+    },
+    {
+        "title": "New Note Bro",
+        "text": "more text please\n",
+        "id": "3b002786-92cc-4f0f-b655-364000182bbf"
     }
 ]
